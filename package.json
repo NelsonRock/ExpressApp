@@ -4,11 +4,11 @@
   "description": "Testing Node et Express",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.12.3"
+    "express": "^4.12.3",
+    "express3-handlebars": "^0.5.2"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "grunt",
     "start": "node server.js"
   },
   "author": "Nelson Rodriguez",
