@@ -1,0 +1,16 @@
+{
+  "name": "ExpressApp",
+  "version": "0.0.1",
+  "description": "Testing Node et Express",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt",
+    "start": "node server.js"
+  },
+  "author": "Nelson Rodriguez",
+  "license": "free"
+}
